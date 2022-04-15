@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kamali pursuing 3rd of Engineering in Computer Science department at Government College of Technology, Coimbatore.
+- 👀 I’m interested in web development
+- 💞️ I’m looking to collaborate on web domain
